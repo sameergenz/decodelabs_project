@@ -1,2 +1,2 @@
-# decodelabs_project-1
-internship
+# decodelabs_projects
+# Data Analytics internship
